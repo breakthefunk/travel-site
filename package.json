@@ -1,21 +1,8 @@
 {
   "name": "travel-site",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/breakthefunk/travel-site.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/breakthefunk/travel-site/issues"
-  },
-  "homepage": "https://github.com/breakthefunk/travel-site#readme",
+  "description": "Travel Site Tutorial",
+  "main": "gulpfile.js",
   "dependencies": {
     "jquery": "^3.3.1",
     "normalize.css": "^8.0.0"
@@ -28,5 +15,18 @@
     "postcss-import": "^11.1.0",
     "postcss-nested": "^3.0.0",
     "postcss-simple-vars": "^4.1.0"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/breakthefunk/travel-site.git"
+  },
+  "author": "Maciej Krupa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/breakthefunk/travel-site/issues"
+  },
+  "homepage": "https://github.com/breakthefunk/travel-site#readme"
 }
